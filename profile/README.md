@@ -1,12 +1,14 @@
 ## Object-oriented Simulator of Marine ecOSystEms (OSMOSE)
 
 <div align="center">
-  <img src="https://documentation.osmose-model.org/_images/logo-osmose.svg">
+  <img src="https://documentation.osmose-model.org/_images/logo-osmose.svg" width=100pt>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="pictures/r-picture.png">
-  <img src="pictures/java-picture.png">
+  <img src="pictures/r-picture.png" height=60pt>
+  <img src="pictures/java-picture.png" height=60pt>
 </div>
 
 </br>
