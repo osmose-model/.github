@@ -19,5 +19,5 @@
 Welcome to the Osmose model Github page!
 
 - Code source is available here: https://github.com/osmose-model/osmose
-- Osmose web page (publications, gallery) is available here: https://osmose-model.org/)
+- Osmose web page (publications, gallery) is available here: https://osmose-model.org/
 - Osmose documentation is available here: https://zenodo.org/record/5766976
