@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <img src="pictures/r-picture.png" height=60pt>
-  <img src="pictures/java-picture.png" height=60pt>
+  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/java-picture.png" height=60pt>
+  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/java-picture.png" height=60pt>
 </div>
 
 </br>
