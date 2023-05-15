@@ -1,12 +1,9 @@
-## Object-oriented Simulator of Marine ecOSystEms (OSMOSE)
+## OSMOSE: Object-oriented Simulator of Marine ecOSystEms
 
 <div align="center">
-  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/sticker_osmose.png?raw=true" height=60pt>
-</div>
-
-<div align="center">
-  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/java-picture.png?raw=true" height=60pt>
-  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/r-picture.png?raw=true" height=60pt>
+  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/r-picture.png?raw=true" height=120pt>
+  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/sticker_osmose.png?raw=true" height=150pt>
+  <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/java-picture.png?raw=true" height=120pt>
 </div>
 
 </br>
@@ -17,5 +14,5 @@
 Welcome to the Osmose model Github page!
 
 - Code source is available here: https://github.com/osmose-model/osmose
-- Osmose web page (publications, gallery) is available here: https://osmose-model.org/
-- Osmose documentation is available here: https://zenodo.org/record/5766976
+- OSMOSE web page (publications, gallery) is available here: https://osmose-model.org/
+- OSMOSE documentation is available here: https://zenodo.org/record/5766976
