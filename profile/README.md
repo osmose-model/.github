@@ -1,6 +1,10 @@
 ## OSMOSE: Object-oriented Simulator of Marine ecOSystEms
 
 <div align="center">
+  <img src="https://github.com/osmose-model/osmose-logos/blob/master/OSMOSE_QR.png?raw=true" height=150pt>
+</div>
+
+<div align="center">
   <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/r-picture.png?raw=true" height=120pt>
   <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/sticker_osmose.png?raw=true" height=150pt>
   <img src="https://github.com/osmose-model/.github/blob/master/profile/pictures/java-picture.png?raw=true" height=120pt>
